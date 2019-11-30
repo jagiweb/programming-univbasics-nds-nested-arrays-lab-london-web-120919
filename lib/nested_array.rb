@@ -29,7 +29,6 @@ def array_literal_matrix
   ENNET_HOUSE.sort { |a, b|  }
   Enfield.sort { |a, b|  }
   array = [ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY]
-  array = array.sort
   array
 end
 
