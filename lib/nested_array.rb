@@ -41,7 +41,7 @@ def array_literal_matrix
     "Mario Incandenza",
     "Michael Pemulis"
   ]]
-  array.sort!
+  array.sort
 
 end
 
