@@ -31,7 +31,7 @@ def array_literal_matrix
 #    ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"]
 #  ]
   array = [ENNET_HOUSE.sort,ENFIELD_TENNIS_ACADEMY.sort]
-  array = array.sort
+
   array
 
 end
