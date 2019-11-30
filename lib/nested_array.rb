@@ -32,8 +32,6 @@ def array_literal_matrix
 #  ]
   array = [ENNET_HOUSE.sort,ENFIELD_TENNIS_ACADEMY.sort]
 
-  array
-
 end
 
 def matrix_lookup(matrix, row, column)
