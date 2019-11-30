@@ -32,7 +32,7 @@ def array_literal_matrix
     "Pat M.",
     "Kate Gompert",
     "Bruce Green"
-  ]
+  ],
 
   ENFIELD_TENNIS_ACADEMY = [
     "Hal Incandenza",
