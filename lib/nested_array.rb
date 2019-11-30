@@ -28,7 +28,7 @@ def array_literal_matrix
   # alphabetically by the first character.
   ENNET_HOUSE.sort { |a, b|  }
   ENFIELD_TENNIS_ACADEMY.sort { |a, b|  }
-  array = [ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY]
+  array = [ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY].sort
   array
 end
 
