@@ -28,19 +28,11 @@ def array_literal_matrix
   # alphabetically by the first character.
   #ENNET_HOUSE.sort
   #ENFIELD_TENNIS_ACADEMY.sort
-  array = [[
-    "Don Gately",
-    "Joelle van Dyne",
-    "Pat M.",
-    "Kate Gompert",
-    "Bruce Green"
-  ], [
-    "Hal Incandenza",
-    "Lyle",
-    "Gerhard Schtitt",
-    "Mario Incandenza",
-    "Michael Pemulis"
-  ]]
+  array = [
+    ["Don Gately", "Joelle van Dyne", "Pat M.", "Kate Gompert", "Bruce Green"],
+    ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"]
+  ]
+
   array.sort
 
 end
