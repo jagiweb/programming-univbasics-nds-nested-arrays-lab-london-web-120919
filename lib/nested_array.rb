@@ -27,11 +27,10 @@ def array_literal_matrix
   # side the ENNET_HOUSE and ENFIELD_TENNIS_ACADEMY Arrays but sorts
   # alphabetically by the first character.
 #  array = [
-#    ["Don Gately", "Joelle van Dyne", "Pat M.", "Kate Gompert", "Bruce Green"],
+#    ["Don Gately", "Joelle van Dyne", "Pat M.", "Kate Gompert", "Bruce Green"].sort,
 #    ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"]
 #  ]
   array = [ENNET_HOUSE.sort,ENFIELD_TENNIS_ACADEMY.sort]
-
 end
 
 def matrix_lookup(matrix, row, column)
